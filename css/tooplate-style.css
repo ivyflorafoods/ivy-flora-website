@@ -269,6 +269,13 @@ a:hover, a:active, a:focus {
   margin-left: 20px;
 }
 
+@media (max-width: 768px) {
+  .handmade-tagline {
+    margin-left: 0;
+    text-align: center;
+  }
+}
+
 /*---------------------------------------
   Work section              
 -----------------------------------------*/
@@ -514,6 +521,7 @@ footer .dash-line {
 
 
 }
+
 
 
 
