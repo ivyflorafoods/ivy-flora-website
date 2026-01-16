@@ -266,7 +266,7 @@ a:hover, a:active, a:focus {
   letter-spacing: 1px;
   line-height: 1.4;
   margin-top: 30px;
-  margin-left: 200px;
+  margin-left: 100px;
 }
 
 /*---------------------------------------
@@ -511,5 +511,6 @@ footer .dash-line {
   #home {
     height: 85vh;
   } 
+
 
 }
