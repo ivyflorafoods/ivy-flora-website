@@ -527,6 +527,16 @@ footer .dash-line {
 
 
 }
+@media (prefers-color-scheme: dark) {
+    html, body {
+        background-color: #ffffff !important;
+        color: #000000 !important;
+    }
+    section, div, header, footer, main {
+        background-color: #ffffff !important;
+        color: #000000 !important;
+    }
+}
 
 
 
