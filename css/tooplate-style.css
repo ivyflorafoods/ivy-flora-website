@@ -273,7 +273,7 @@ a:hover, a:active, a:focus {
 @media (max-width: 768px) {
   .handmade-tagline {
     margin-left: 0;
-    margin-top: 20px;
+    margin-top: 40px;
     text-align: center;
   }
 }
@@ -523,6 +523,7 @@ footer .dash-line {
 
 
 }
+
 
 
 
