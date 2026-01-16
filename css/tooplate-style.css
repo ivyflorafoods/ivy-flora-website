@@ -262,11 +262,11 @@ a:hover, a:active, a:focus {
 .handmade-tagline {
   font-family: 'Homemade Apple', cursive;
   font-size: 25px;
-  font-weight: 400;
+  font-weight: 300;
   letter-spacing: 1px;
   line-height: 1.4;
   margin-top: 20px;
-  margin-left: 30px;
+  margin-left: 20px;
 }
 
 /*---------------------------------------
@@ -514,5 +514,6 @@ footer .dash-line {
 
 
 }
+
 
 
