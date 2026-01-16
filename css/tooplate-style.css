@@ -265,13 +265,14 @@ a:hover, a:active, a:focus {
   font-weight: 300;
   letter-spacing: 1px;
   line-height: 1.4;
-  margin-top: 20px;
+  margin-top: 50px;
   margin-left: 20px;
 }
 
 @media (max-width: 768px) {
   .handmade-tagline {
     margin-left: 0;
+    margin-top: 10px;
     text-align: center;
   }
 }
@@ -521,6 +522,7 @@ footer .dash-line {
 
 
 }
+
 
 
 
